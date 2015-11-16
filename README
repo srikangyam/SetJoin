@@ -1,0 +1,29 @@
+
+Implement Set Union Operation (by id)
+
+Input Schema: (id, name)
+Sportsmen1 (sample.txt):
+1,Virat Kohli
+2,Dwayne Johnson
+3,Vishwanathan Anand
+4,Tiger Woods
+5,Christiano Ronaldo
+6,LeBron James
+
+
+Sportsmen2 (sample1.txt):
+1,Floyd Mayweather
+2,Saina Nehwal
+3,Roger Federer
+4,Tiger Woods
+7,Allison Stokke
+
+
+OUTPUT:
+1	Virat Kohli,Floyd Mayweather
+2	Saina Nehwal,Dwayne Johnson
+3	Vishwanathan Anand,Roger Federer
+4	Tiger Woods
+5	Christiano Ronaldo
+6	LeBron James
+7	Allison Stokke
